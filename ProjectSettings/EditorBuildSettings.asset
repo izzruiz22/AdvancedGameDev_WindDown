@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/WindDown_ExampleScene.unity
+    guid: 48604c84f5e0a9a4f8cf4c8e08ef6cc4
+  - enabled: 1
+    path: Assets/Scenes/Living Room.unity
+    guid: 746532c5b09d54085a57eb292f9ef55d
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: f2a2effe5127c4e4a9927284ce36e685
+  - enabled: 1
+    path: Assets/Scenes/Party.unity
+    guid: 9bfa96426fee643c3a591b01bfa62156
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2669b2161302547659c0fe8ac4f51884, type: 3}
   m_UseUCBPForAssetBundles: 0
