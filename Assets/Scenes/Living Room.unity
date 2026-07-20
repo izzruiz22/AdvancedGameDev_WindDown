@@ -1297,7 +1297,7 @@ PrefabInstance:
     - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: initialDatabase
       value: 
-      objectReference: {fileID: 11400000, guid: d26719f0af2d2f542b2881bdafdea8ce, type: 2}
+      objectReference: {fileID: 11400000, guid: e374e4299e2033943ac21319fcd6980a, type: 2}
     - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: displaySettings.dialogueUI
       value: 
@@ -7206,8 +7206,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 698.087, y: -5}
-  m_SizeDelta: {x: 1124.174, y: 0}
+  m_AnchoredPosition: {x: 585.26404, y: -5}
+  m_SizeDelta: {x: 898.5281, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1149107820
 MonoBehaviour:
@@ -11735,8 +11735,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 698.087, y: -5}
-  m_SizeDelta: {x: 1124.174, y: 0}
+  m_AnchoredPosition: {x: 585.26404, y: -5}
+  m_SizeDelta: {x: 898.5281, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2122073273
 MonoBehaviour:
