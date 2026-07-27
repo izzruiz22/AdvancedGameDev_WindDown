@@ -465,8 +465,7 @@ MonoBehaviour:
         destinationDialogueID: 3
         isConnector: 0
         priority: 2
-      conditionsString: CurrentQuestState("Get Grandmere to take you to Rou's Birthday
-        Party") == "active"
+      conditionsString: 
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -749,7 +748,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 264
+        x: 265.24683
         y: 279
         width: 160
         height: 30
@@ -1191,8 +1190,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 675.62476
-        y: 561.2499
+        x: 674.2164
+        y: 565.47516
         width: 160
         height: 30
     - id: 15
@@ -1975,8 +1974,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 300.52887, y: 719.99}
-    canvasZoom: 0.45999998
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.47130102
   - id: 2
     fields:
     - title: Title
@@ -3707,8 +3706,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 175.28543, y: 311.41196}
-    canvasZoom: 0.8199997
+    canvasScrollPosition: {x: 428.38538, y: 90.75249}
+    canvasZoom: 0.73937863
   - id: 3
     fields:
     - title: Title
