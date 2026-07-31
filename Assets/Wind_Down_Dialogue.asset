@@ -465,7 +465,8 @@ MonoBehaviour:
         destinationDialogueID: 3
         isConnector: 0
         priority: 2
-      conditionsString: 
+      conditionsString: CurrentQuestState("Get Grandmere to take you to Rou's Birthday
+        Party") == "active"
       userScript: 
       onExecute:
         m_PersistentCalls:

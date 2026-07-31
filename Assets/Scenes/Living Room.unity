@@ -758,7 +758,7 @@ Transform:
   m_GameObject: {fileID: 97228027}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 417.6, y: 122.05, z: 0}
+  m_LocalPosition: {x: 506.3, y: 98.7, z: 0}
   m_LocalScale: {x: 27.344118, y: 27.344118, z: 27.344118}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1425,7 +1425,7 @@ Transform:
   m_GameObject: {fileID: 245085683}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.027931232, w: 0.9996098}
-  m_LocalPosition: {x: 483, y: 278, z: 0}
+  m_LocalPosition: {x: 510, y: 260, z: 0}
   m_LocalScale: {x: 79.46781, y: 70.63806, z: 70.63806}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4854,7 +4854,7 @@ MonoBehaviour:
   anotherQuestEntryNumber: 1
   anotherQuestEntryState: 0
   luaCode: 
-  sequence: LoadLevel(Bedroom)
+  sequence: LoadLevel(Bedroom2)
   sequenceSpeaker: {fileID: 0}
   sequenceListener: {fileID: 0}
   waitOneFrameOnStartOrEnable: 1
@@ -5436,7 +5436,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 0
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -5573,7 +5573,7 @@ Transform:
   m_GameObject: {fileID: 846596500}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -80.5, y: 1.2, z: -5.9004}
+  m_LocalPosition: {x: -84.4, y: 7.3, z: -5.9004}
   m_LocalScale: {x: 0.30173, y: 0.30173, z: 0.30173}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7837,8 +7837,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.4783, y: -5}
-  m_SizeDelta: {x: 898.95654, y: 0}
+  m_AnchoredPosition: {x: 585.1404, y: -5}
+  m_SizeDelta: {x: 898.28076, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1149107820
 MonoBehaviour:
@@ -8949,7 +8949,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CameraFollow
   player: {fileID: 846596511}
   background: {fileID: 795844052}
-  cameraOffsetX: 59.3
+  cameraOffsetX: 100
   smoothSpeed: 5
 --- !u!114 &1479942872
 MonoBehaviour:
@@ -10960,9 +10960,9 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: 30cc2abc21927450d93eeea593f4d216, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 62fcd2516a98944b79b708b893449088, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1, y: 1}
@@ -10979,8 +10979,8 @@ Transform:
   m_GameObject: {fileID: 1794472689}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 195.84, y: 122.05, z: 0}
-  m_LocalScale: {x: 27.344118, y: 27.344118, z: 27.344118}
+  m_LocalPosition: {x: 208.1, y: 138.2, z: 0}
+  m_LocalScale: {x: 24.759188, y: 24.759188, z: 24.759188}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -11178,7 +11178,7 @@ MonoBehaviour:
   actor: Grandmere
   persistentDataName: 
   portrait: {fileID: 0}
-  spritePortrait: {fileID: 21300000, guid: 30cc2abc21927450d93eeea593f4d216, type: 3}
+  spritePortrait: {fileID: 21300000, guid: 62fcd2516a98944b79b708b893449088, type: 3}
   cameraAngles: {fileID: 0}
   audioSource: {fileID: 0}
   barkUISettings:
@@ -12077,8 +12077,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.4783, y: -5}
-  m_SizeDelta: {x: 898.95654, y: 0}
+  m_AnchoredPosition: {x: 585.1404, y: -5}
+  m_SizeDelta: {x: 898.28076, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2122073273
 MonoBehaviour:
