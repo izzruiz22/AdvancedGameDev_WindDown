@@ -8150,8 +8150,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.1404, y: -5}
-  m_SizeDelta: {x: 898.28076, y: 0}
+  m_AnchoredPosition: {x: 585.3334, y: -5}
+  m_SizeDelta: {x: 898.66675, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1357090599
 MonoBehaviour:
@@ -9154,8 +9154,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.1404, y: -5}
-  m_SizeDelta: {x: 898.28076, y: 0}
+  m_AnchoredPosition: {x: 585.3334, y: -5}
+  m_SizeDelta: {x: 898.66675, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1604017697
 MonoBehaviour:
@@ -11212,6 +11212,10 @@ PrefabInstance:
       propertyPath: displaySettings.dialogueUI
       value: 
       objectReference: {fileID: 1619749750}
+    - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
+      propertyPath: displaySettings.subtitleSettings.subtitleCharsPerSecond
+      value: 25
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:

@@ -494,8 +494,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.4783, y: -5}
-  m_SizeDelta: {x: 898.95654, y: 0}
+  m_AnchoredPosition: {x: 585.3334, y: -5}
+  m_SizeDelta: {x: 898.66675, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &139887698
 MonoBehaviour:
@@ -2179,8 +2179,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Start
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 87596f87eb99c4bbfb7259a5e6dd950b, type: 2}
-  m_sharedMaterial: {fileID: -347810029448523511, guid: 87596f87eb99c4bbfb7259a5e6dd950b, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -3072,6 +3072,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   key: 32
   buttonName: 
+  inputAction: {fileID: 0}
+  disableInputActionAfterClick: 0
   anyKeyOrButton: 0
   skipIfBeingClickedBySubmit: 1
   simulateButtonClick: 1
@@ -4142,8 +4144,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Wind Down
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9a843d1654fe94d51bdba09cc5fbe7fa, type: 2}
-  m_sharedMaterial: {fileID: 1488802492683376837, guid: 9a843d1654fe94d51bdba09cc5fbe7fa, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6697,6 +6699,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   key: 32
   buttonName: 
+  inputAction: {fileID: 0}
+  disableInputActionAfterClick: 0
   anyKeyOrButton: 0
   skipIfBeingClickedBySubmit: 1
   simulateButtonClick: 1
@@ -7979,7 +7983,7 @@ PrefabInstance:
     - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: initialDatabase
       value: 
-      objectReference: {fileID: 11400000, guid: d26719f0af2d2f542b2881bdafdea8ce, type: 2}
+      objectReference: {fileID: 11400000, guid: e374e4299e2033943ac21319fcd6980a, type: 2}
     - target: {fileID: 11426072, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: displaySettings.dialogueUI
       value: 
@@ -8843,7 +8847,7 @@ MonoBehaviour:
   useConversationTitlePicker: 1
   useBarkTitlePicker: 1
   useQuestNamePicker: 1
-  selectedDatabase: {fileID: 11400000, guid: d26719f0af2d2f542b2881bdafdea8ce, type: 2}
+  selectedDatabase: {fileID: 11400000, guid: e374e4299e2033943ac21319fcd6980a, type: 2}
 --- !u!1 &1693763702
 GameObject:
   m_ObjectHideFlags: 0
@@ -10848,8 +10852,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585.4783, y: -5}
-  m_SizeDelta: {x: 898.95654, y: 0}
+  m_AnchoredPosition: {x: 585.3334, y: -5}
+  m_SizeDelta: {x: 898.66675, y: 0}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &2111154949
 MonoBehaviour:
