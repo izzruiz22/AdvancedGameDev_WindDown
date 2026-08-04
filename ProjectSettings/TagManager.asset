@@ -41,5 +41,20 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 3314847271
+    locked: 0
+  - name: Set Dressing
+    uniqueID: 407284139
+    locked: 0
+  - name: NPC
+    uniqueID: 2050496299
+    locked: 0
+  - name: Player
+    uniqueID: 4238118093
+    locked: 0
+  - name: Foreground
+    uniqueID: 3937790461
+    locked: 0
   m_RenderingLayers:
   - Default
