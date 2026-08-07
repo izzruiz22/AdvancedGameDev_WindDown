@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 422b465da3cde46418e46cdd852c4a5e
+guid: 7c06c72ad80c9457692d073f4ea6a913
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -196615178472328427
-    second: 17851136841596957-7_0
+      213: -2410125218524487750
+    second: p-trans-9_0
   - first:
-      213: 3999176423739449225
-    second: 17851136841596957-7_1
+      213: 2402844558794726333
+    second: p-trans-9_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,45 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 17851136841596957-7_0
+      name: p-trans-9_0
       rect:
         serializedVersion: 2
-        x: 353
-        y: 160
-        width: 210
-        height: 498
+        x: 12
+        y: 72
+        width: 164
+        height: 75
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 513f4b1798b754df0800000000000000
-      internalID: -196615178472328427
+      spriteID: abf13a512e38d8ed0800000000000000
+      internalID: -2410125218524487750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 17851136841596957-7_1
+      name: p-trans-9_1
       rect:
         serializedVersion: 2
-        x: 571
-        y: 172
-        width: 77
-        height: 566
+        x: 31
+        y: 9
+        width: 125
+        height: 111
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 98f5b13d4cdef7730800000000000000
-      internalID: 3999176423739449225
+      spriteID: dbb9079356e985120800000000000000
+      internalID: 2402844558794726333
       vertices: []
       indices: 
       edges: []
@@ -171,12 +171,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      17851136841596957-7_0: -196615178472328427
-      17851136841596957-7_1: 3999176423739449225
+      p-trans-9_0: -2410125218524487750
+      p-trans-9_1: 2402844558794726333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
