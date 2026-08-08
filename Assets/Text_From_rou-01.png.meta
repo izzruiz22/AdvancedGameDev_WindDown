@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e87462740acf848838736146383ae91e
+guid: 2d523e1abc519f14fbc2d6235859c562
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3239464077698688368
-    second: 17851136841596957-18_0
+      213: -3333629763562316055
+    second: Text_From_rou-01_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,13 +46,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 309, y: 0, z: 369, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,58 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 17851136841596957-18_0
+      name: Text_From_rou-01_0
       rect:
         serializedVersion: 2
-        x: 317
-        y: 6
-        width: 730
-        height: 774
+        x: 2008
+        y: 632
+        width: 2261
+        height: 1764
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline:
-      - - {x: 85, y: -377}
-        - {x: 144, y: -359}
-        - {x: 207, y: -288}
-        - {x: 228, y: -224}
-        - {x: 262, y: -171}
-        - {x: 279, y: -137}
-        - {x: 291, y: -88}
-        - {x: 352, y: -5}
-        - {x: 352, y: 65}
-        - {x: 349, y: 130}
-        - {x: 343, y: 161}
-        - {x: 331, y: 233}
-        - {x: 321, y: 246}
-        - {x: 232, y: 321}
-        - {x: 120, y: 358}
-        - {x: 66, y: 363}
-        - {x: -4, y: 362}
-        - {x: -54, y: 371}
-        - {x: -114, y: 371}
-        - {x: -200, y: 334}
-        - {x: -268, y: 282}
-        - {x: -287, y: 255}
-        - {x: -293, y: 237}
-        - {x: -318, y: 184}
-        - {x: -326, y: 147}
-        - {x: -332, y: -25}
-        - {x: -353, y: -60}
-        - {x: -353, y: -123}
-        - {x: -329, y: -147}
-        - {x: -309, y: -225}
-        - {x: -269, y: -283}
-        - {x: -184, y: -342}
-        - {x: -105, y: -368}
-        - {x: -34, y: -382}
-        - {x: 37, y: -382}
+      outline: []
       physicsShape: []
-      tessellationDetail: 0.067
+      tessellationDetail: -1
       bones: []
-      spriteID: 0756edd4a63e4fc20800000000000000
-      internalID: 3239464077698688368
+      spriteID: 9eed23274619cb1d0800000000000000
+      internalID: -3333629763562316055
       vertices: []
       indices: 
       edges: []
@@ -173,8 +138,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -183,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      17851136841596957-18_0: 3239464077698688368
+      Text_From_rou-01_0: -3333629763562316055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1480,17 +1480,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 64883369}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0.00061225786, w: 0.9999999}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.21771054, y: 0.21771054, z: 0.21771054}
+  m_LocalScale: {x: 0.14997426, y: 0.14997426, z: 0.14997426}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 681082833}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -0.07}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 160.7, y: 118.6}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 156.43959, y: 115.7}
+  m_SizeDelta: {x: 82.1396, y: 82.1396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &64883371
 MonoBehaviour:
@@ -1505,7 +1505,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0.9605317, b: 0.6698113, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4358,6 +4358,66 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 1
           m_CallState: 2
+  - guid: 6f8ef3ee-076e-48b0-9fde-d869ae5a6650
+    onExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 495246704}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
+  - guid: 330f672a-4edd-408e-bd41-f0caf7b754bc
+    onExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 495246704}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+  - guid: c30fcfc2-8255-454d-be21-68de7f1446bb
+    onExecute:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 549021688}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+        - m_Target: {fileID: 758694278}
+          m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+          m_MethodName: SetActive
+          m_Mode: 6
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 1
+          m_CallState: 2
 --- !u!4 &321202846
 Transform:
   m_ObjectHideFlags: 0
@@ -5964,7 +6024,7 @@ MonoBehaviour:
   anotherQuestEntryNumber: 1
   anotherQuestEntryState: 0
   luaCode: 
-  sequence: LoadLevel(Living Room)
+  sequence: LoadLevel(Living Room2)
   sequenceSpeaker: {fileID: 0}
   sequenceListener: {fileID: 0}
   waitOneFrameOnStartOrEnable: 1
@@ -7204,8 +7264,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -11.333}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 131.7, y: 118.1}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 132.6191, y: 116.414215}
+  m_SizeDelta: {x: 82.1396, y: 82.1396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &677152546
 MonoBehaviour:
@@ -7281,8 +7341,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -25.416626, y: -19.166656}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -595.4169, y: -9.9762}
+  m_SizeDelta: {x: 103.9691, y: 98.866}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &687254061
 GameObject:
@@ -8887,7 +8947,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp-firstpass::PixelCrushers.DialogueSystem.Wrappers.Usable
   m_overrideName: Bedroom Door
-  m_overrideUseMessage: Press Space to Enter the Living Room
+  m_overrideUseMessage: Press Space to Enter the Living Room At Night
   maxUseDistance: 5
   events:
     onSelect:
@@ -19507,8 +19567,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 171, y: 116.5}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 164.9, y: 115.1}
+  m_SizeDelta: {x: 82.1396, y: 82.1396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1689358819
 MonoBehaviour:
@@ -21257,8 +21317,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 224.2, y: 116.5}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 208.59825, y: 115.09999}
+  m_SizeDelta: {x: 82.1396, y: 82.1396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1807374496
 MonoBehaviour:
