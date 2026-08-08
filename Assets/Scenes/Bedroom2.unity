@@ -6024,7 +6024,7 @@ MonoBehaviour:
   anotherQuestEntryNumber: 1
   anotherQuestEntryState: 0
   luaCode: 
-  sequence: LoadLevel(Living Room2)
+  sequence: LoadLevel(Living Room)
   sequenceSpeaker: {fileID: 0}
   sequenceListener: {fileID: 0}
   waitOneFrameOnStartOrEnable: 1
@@ -8813,7 +8813,7 @@ MonoBehaviour:
   anotherQuestEntryNumber: 1
   anotherQuestEntryState: 0
   luaCode: 
-  sequence: LoadLevel(Living Room2)
+  sequence: LoadLevel(Living Room)
   sequenceSpeaker: {fileID: 0}
   sequenceListener: {fileID: 0}
   waitOneFrameOnStartOrEnable: 1
@@ -8947,7 +8947,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp-firstpass::PixelCrushers.DialogueSystem.Wrappers.Usable
   m_overrideName: Bedroom Door
-  m_overrideUseMessage: Press Space to Enter the Living Room At Night
+  m_overrideUseMessage: Press Space to Enter the Living Room
   maxUseDistance: 5
   events:
     onSelect:
